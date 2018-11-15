@@ -1,4 +1,4 @@
-# MDP_Robot_System
+# MDP Robot System
 This repository contains the source codes of a robot system running on Raspberry Pi. This system was part of the CZ3004 Multi-Disciplinary Project.
 
 
@@ -12,8 +12,7 @@ The complete system consists of Arduino control, Raspberry Pi as the communicati
 
 
 # Documentation
-System for deployment: FinalSystem
-Refer to the two PDF files in the repository for detailed explantion for 'FinalSystem'.
+Refer to the two PDF files in the repository for detailed explantion for 'FinalSystem', which is the system for actual deployment.
 
 
 # Acknowledgement
