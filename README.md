@@ -8,7 +8,7 @@ The objective of this project is to create a autonomous robot that
 2) plans a fastest path from the Start Zone (bottom left corner) to the Goal Zone (top right corner) while passing through a predefined way point
 3) performs image detection on random arrow image pasted on the maze wall and report their locations (with real-time updates on the Android App)
 
-The complete system consists of Arduino control, Raspberry Pi as the communication centre, Algorithm for path planning and localization, and an Android App as the console. This repository covers the Raspberry Pi Communication, Image Detection and Main Algprithm. The main algorithm runs directly on the Raspberry Pi.
+The complete system consists of Arduino control, Raspberry Pi as the communication centre, Algorithm for path planning and localization, and an Android App as the console. This repository covers the Raspberry Pi Communication, Image Detection and the Exploration & Path Planning Algorithm. The main algorithm runs directly on the Raspberry Pi.
 
 
 # Documentation
